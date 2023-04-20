@@ -1,2 +1,2 @@
 # Vucut Kitle Endeksi
-Bu programda vücut kitle endeksi hesaplayan ve bize hangi durumda olduğumuzu söyleyen program
+ilk önce 2 tane textbox alıyoruz iki tane buton koyuyuoruz ondan sonra bize 3 tane label lazım ikisi sadece boy ve kilo textboxını gösterecek diğer label bize cevabı göstericek önce textboxlardan değer almak için boy ve kilo değikeninin alıyoruz sonra sonuç diye değişken oluşturup onu işlemleri atama yapıyoruz daha sonra ilk butona basınca ise çıkan sonuca göre bize zayıf kilolu yada normal desin ve sonucu yazdırsın. Diğer butona basarsak bütün değerleri sıfırlasın
