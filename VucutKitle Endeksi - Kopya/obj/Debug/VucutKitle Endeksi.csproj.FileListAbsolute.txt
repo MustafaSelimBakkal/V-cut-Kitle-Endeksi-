@@ -1,0 +1,11 @@
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\bin\Debug\VucutKitle Endeksi.exe.config
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\bin\Debug\VucutKitle Endeksi.exe
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\bin\Debug\VucutKitle Endeksi.pdb
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.csproj.AssemblyReference.cache
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle_Endeksi.Form1.resources
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle_Endeksi.Properties.Resources.resources
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.csproj.GenerateResource.cache
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.csproj.CoreCompileInputs.cache
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.exe
+C:\Users\bakka\source\repos\VucutKitle Endeksi\VucutKitle Endeksi\obj\Debug\VucutKitle Endeksi.pdb
