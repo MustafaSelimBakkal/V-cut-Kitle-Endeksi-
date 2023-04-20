@@ -1,2 +1,2 @@
-# V-cut-Kitle-Endeksi-
+# Vucut Kitle Endeksi
 Bu programda vücut kitle endeksi hesaplayan ve bize hangi durumda olduğumuzu söyleyen program
